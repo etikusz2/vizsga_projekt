@@ -1,0 +1,103 @@
+[
+    {
+      "question": "Mi az a fotoszintézis?",
+      "options": [
+        "Egy kémiai reakció",
+        "Növények táplálkozási folyamata",
+        "Egy fizikai változás",
+        "Egy betegség a növényekben"
+      ],
+      "answer": "Növények táplálkozási folyamata"
+    },
+    {
+      "question": "Melyik bolygó van a legközelebb a Naphoz?",
+      "options": [
+        "Mars",
+        "Vénusz",
+        "Merkúr",
+        "Föld"
+      ],
+      "answer": "Merkúr"
+    },
+    {
+      "question": "Mi a H2O?",
+      "options": [
+        "Hidrogén-peroxid",
+        "Sósav",
+        "Víz",
+        "Oxigén"
+      ],
+      "answer": "Víz"
+    },
+    {
+      "question": "Melyik elemet nevezik 'Au'-nak a periódusos rendszerben?",
+      "options": [
+        "Arany",
+        "Ezüst",
+        "Réz",
+        "Alumínium"
+      ],
+      "answer": "Arany"
+    },
+    {
+      "question": "Melyik nem egy emlős?",
+      "options": [
+        "Delfin",
+        "Krokodil",
+        "Koala",
+        "Ember"
+      ],
+      "answer": "Krokodil"
+    },
+    {
+      "question": "Melyik vitamint szerezhetjük meg a napfényből?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "Mi a legkisebb alapvető építőeleme a materiának?",
+      "options": [
+        "Atom",
+        "Molekula",
+        "Elektron",
+        "Proton"
+      ],
+      "answer": "Atom"
+    },
+    {
+      "question": "Melyik gasztronómiai termék ismert magas antioxidáns-tartalmáról?",
+      "options": [
+        "Burgonya",
+        "Sárgarépa",
+        "Csokoládé",
+        "Tea"
+      ],
+      "answer": "Tea"
+    },
+    {
+      "question": "Melyik a leghosszabb folyó a világon?",
+      "options": [
+        "Amazonas",
+        "Nílus",
+        "Jangce",
+        "Mississippi"
+      ],
+      "answer": "Nílus"
+    },
+    {
+      "question": "Mi a fotoszféra?",
+      "options": [
+        "A Nap legkülső rétege",
+        "A Föld atmoszférájának egy rétege",
+        "Egy csillag belső rétege",
+        "A Hold felszíne"
+      ],
+      "answer": "A Nap legkülső rétege"
+    }
+  ]
+  

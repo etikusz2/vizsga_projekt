@@ -1,0 +1,103 @@
+[
+    {
+      "question": "Mi az a Pitagorasz-tétel?",
+      "options": [
+        "a^2 + b^2 = c^2",
+        "a^2 - b^2 = c^2",
+        "a^3 + b^3 = c^3",
+        "2a + 2b = c"
+      ],
+      "answer": "a^2 + b^2 = c^2"
+    },
+    {
+      "question": "Mennyi 7 x 8?",
+      "options": [
+        "56",
+        "48",
+        "64",
+        "72"
+      ],
+      "answer": "56"
+    },
+    {
+      "question": "Mi a következő szám a sorozatban: 2, 4, 8, 16, ...?",
+      "options": [
+        "32",
+        "24",
+        "18",
+        "40"
+      ],
+      "answer": "32"
+    },
+    {
+      "question": "Mennyi a π (pi) értéke két tizedesjegy pontossággal?",
+      "options": [
+        "3.14",
+        "3.1416",
+        "3.15",
+        "3.1"
+      ],
+      "answer": "3.14"
+    },
+    {
+      "question": "Melyik a legnagyobb prímszám az alábbiak közül?",
+      "options": [
+        "37",
+        "97",
+        "66",
+        "100"
+      ],
+      "answer": "97"
+    },
+    {
+      "question": "Milyen alakzat területét számoljuk ki az alábbi képlettel: πr^2?",
+      "options": [
+        "Téglalap",
+        "Kör",
+        "Háromszög",
+        "Négyzet"
+      ],
+      "answer": "Kör"
+    },
+    {
+      "question": "Mennyi a √64?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Melyik az a szám, amelyikhez ha hozzáadunk 15-öt, akkor 80-at kapunk?",
+      "options": [
+        "55",
+        "65",
+        "75",
+        "85"
+      ],
+      "answer": "65"
+    },
+    {
+      "question": "Mennyi 15% a 200-ból?",
+      "options": [
+        "30",
+        "25",
+        "35",
+        "40"
+      ],
+      "answer": "30"
+    },
+    {
+      "question": "Melyik műveletet hajtjuk végre először egy matematikai kifejezésben?",
+      "options": [
+        "Összeadás",
+        "Szorzás",
+        "Kivonás",
+        "Osztás"
+      ],
+      "answer": "Szorzás"
+    }
+  ]
+  

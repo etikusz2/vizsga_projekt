@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Mikor fedezte fel Kolumbusz Kristóf Amerikát?",
+      "options": ["1492", "1500", "1488", "1512"],
+      "answer": "1492"
+    },
+    {
+      "question": "Ki volt Magyarország első királya?",
+      "options": ["I. István", "I. László", "Géza fejedelem", "I. Béla"],
+      "answer": "I. István"
+    },
+    {
+      "question": "Melyik évben kezdődött az első világháború?",
+      "options": ["1914", "1918", "1939", "1945"],
+      "answer": "1914"
+    },
+    {
+      "question": "Ki írta a 'Függetlenségi nyilatkozatot'?",
+      "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Benjamin Franklin"],
+      "answer": "Thomas Jefferson"
+    },
+    {
+      "question": "Melyik dinasztia uralkodott Kínában a legtovább?",
+      "options": ["Ming", "Qing", "Tang", "Zhou"],
+      "answer": "Zhou"
+    },
+    {
+      "question": "Mi volt Spartacus szerepe az ókori Rómában?",
+      "options": ["Császár", "Gladiátor, aki felkelést vezetett", "Szenátor", "Hadvezér"],
+      "answer": "Gladiátor, aki felkelést vezetett"
+    },
+    {
+      "question": "Melyik országban történt a Bastille ostroma?",
+      "options": ["Anglia", "Franciaország", "Németország", "Olaszország"],
+      "answer": "Franciaország"
+    },
+    {
+      "question": "Ki volt az az ókori görög, akit 'a matematika atyjának' tartanak?",
+      "options": ["Arkhimédész", "Euklidész", "Püthagorasz", "Sókratész"],
+      "answer": "Euklidész"
+    },
+    {
+      "question": "Mikor esett el Konstantinápoly?",
+      "options": ["1453", "1204", "1054", "1492"],
+      "answer": "1453"
+    },
+    {
+      "question": "Ki volt az első ember a Holdon?",
+      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+      "answer": "Neil Armstrong"
+    }
+  ]
+  

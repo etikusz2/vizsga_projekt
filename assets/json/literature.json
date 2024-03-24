@@ -1,0 +1,103 @@
+[
+    {
+      "question": "Ki írta a 'Rómeó és Júlia' tragédiát?",
+      "options": [
+        "William Shakespeare",
+        "Leo Tolstoy",
+        "Charles Dickens",
+        "Victor Hugo"
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Melyik regényben találkozhatunk Huckleberry Finn karakterével?",
+      "options": [
+        "Az elveszett jelkép",
+        "Huckleberry Finn kalandjai",
+        "A nagy Gatsby",
+        "Moby Dick"
+      ],
+      "answer": "Huckleberry Finn kalandjai"
+    },
+    {
+      "question": "Ki írta a 'Moby Dick' című könyvet?",
+      "options": [
+        "Ernest Hemingway",
+        "Herman Melville",
+        "Mark Twain",
+        "J.D. Salinger"
+      ],
+      "answer": "Herman Melville"
+    },
+    {
+      "question": "Melyik országban játszódik a 'Don Quijote'?",
+      "options": [
+        "Spanyolország",
+        "Franciaország",
+        "Olaszország",
+        "Portugália"
+      ],
+      "answer": "Spanyolország"
+    },
+    {
+      "question": "Ki írta a 'Kisasszonyok' című regényt?",
+      "options": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "Louisa May Alcott",
+        "Emily Brontë"
+      ],
+      "answer": "Louisa May Alcott"
+    },
+    {
+      "question": "Melyik könyv szereplője Sherlock Holmes?",
+      "options": [
+        "A sötét torony",
+        "A skarlát betű",
+        "A Baskerville-kutya",
+        "Az elveszett világ"
+      ],
+      "answer": "A Baskerville-kutya"
+    },
+    {
+      "question": "Ki a szerzője a 'Pride and Prejudice' (Büszkeség és balítélet) című regénynek?",
+      "options": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "George Eliot",
+        "Virginia Woolf"
+      ],
+      "answer": "Jane Austen"
+    },
+    {
+      "question": "Melyik regény írójától származik a következő idézet: 'Mindennek megvan a maga ideje'?",
+      "options": [
+        "Gabriel García Márquez",
+        "Fjodor Dosztojevszkij",
+        "Lev Tolsztoj",
+        "Charles Dickens"
+      ],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "question": "Melyik mű számít Homérosz legismertebb alkotásának?",
+      "options": [
+        "Az Iliász",
+        "Az Odüsszeia",
+        "Aeneis",
+        "A görögök tündérvilága"
+      ],
+      "answer": "Az Odüsszeia"
+    },
+    {
+      "question": "Ki írta a 'Háború és béke' című művet?",
+      "options": [
+        "Anton Pavlovics Csehov",
+        "Lev Tolsztoj",
+        "Ivan Turgenyev",
+        "Mihail Bulgakov"
+      ],
+      "answer": "Lev Tolsztoj"
+    }
+  ]
+  
